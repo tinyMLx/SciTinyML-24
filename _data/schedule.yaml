@@ -1,0 +1,99 @@
+headers:
+ - "Day"
+ - "Date"
+ - "Topics"
+ - "Speakers and Materials"
+
+days:
+  - number: "1"
+    dayOfWeek: "Monday"
+    name: "Introduction to (tiny)ML"
+    schedule:
+      # - time: "1:00:00 PM"
+      #   name: "Workshop Opening and Schedule"
+      # - time: "1:30:00 PM"
+      #   name: "Opening Keynote"
+      # - time: "2:15:00 PM"
+      #   name: "Introduction to Machine Learning"
+      # - time: "3:15:00 PM"
+      #   name: "Introduction to Embedded ML"
+      # - time: "3:55:00 PM"
+      #   name: "Day Closing"
+    speakers:
+      # - name: "Marco Zennaro"
+      #   website: "http://users.ictp.it/~mzennaro/"
+      #   affiliation:
+      #     name: "ICTP"
+      #     website: "https://www.ictp.it/"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+      #       local: "1"
+
+  - number: "2"
+    dayOfWeek: "Tuesday"
+    name: "Hands-on Introduction to TinyML"
+    schedule:
+      # - time: "1:00:00 PM"
+      #   name: "Workshop Opening and Schedule"
+    speakers:
+      # - name: "Marco Zennaro"
+      #   website: "http://users.ictp.it/~mzennaro/"
+      #   affiliation:
+      #     name: "ICTP"
+      #     website: "https://www.ictp.it/"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+      #       local: "1"
+
+  - number: "3"
+    dayOfWeek: "Wednesday"
+    name: "From Demos to Applications"
+    schedule:
+      # - time: "1:00:00 PM"
+      #   name: "Workshop Opening and Schedule"
+    speakers:
+      # - name: "Marco Zennaro"
+      #   website: "http://users.ictp.it/~mzennaro/"
+      #   affiliation:
+      #     name: "ICTP"
+      #     website: "https://www.ictp.it/"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+      #       local: "1"
+
+  - number: "4"
+    dayOfWeek: "Thursday"
+    name: "TinyML Show and Tell"
+    schedule:
+      # - time: "1:00:00 PM"
+      #   name: "Workshop Opening and Schedule"
+    speakers:
+      # - name: "Marco Zennaro"
+      #   website: "http://users.ictp.it/~mzennaro/"
+      #   affiliation:
+      #     name: "ICTP"
+      #     website: "https://www.ictp.it/"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+      #       local: "1"
+
+  - number: "5"
+    dayOfWeek: "Friday"
+    name: "Advanced Scientific TinyML"
+    schedule:
+      # - time: "1:00:00 PM"
+      #   name: "Workshop Opening and Schedule"
+    speakers:
+      # - name: "Marco Zennaro"
+      #   website: "http://users.ictp.it/~mzennaro/"
+      #   affiliation:
+      #     name: "ICTP"
+      #     website: "https://www.ictp.it/"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+      #       local: "1"
