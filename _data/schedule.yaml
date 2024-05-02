@@ -99,7 +99,7 @@ days:
       - time: "1:00:00 PM"
         name: "Day Opening"
       - time: "1:05:00 PM"
-        name: "Open Science with Edge ML"
+        name: "TinyML devices enabling physical GPT"
       - time: "1:45:00 PM"
         name: "Experiences using TinyML Tools in Teaching Biomedical Engineering"
       - time: "2:25:00 PM"
