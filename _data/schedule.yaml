@@ -16,10 +16,8 @@ days:
       - time: "2:00:00 PM"
         name: "AI and ML Overview"
       - time: "3:00:00 PM"
-        name: "Introduction to Embedded ML"
-      - time: "3:45:00 PM"
         name: "Education in TinyML"
-      - time: "4:15:00 PM"
+      - time: "3:45:00 PM"
         name: "Day Closing"
     speakers:
       - name: "Marco Zennaro"
@@ -36,21 +34,28 @@ days:
         affiliation:
           name: "ARM"
           website: "https://www.arm.com/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/gianmarco_slides.pdf"
+            local: "1"
       - name: "Jesús Alfonso López Sotelo"
         website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
-      - name: "Robert Thas John"
-        website: "https://www.linkedin.com/in/robert-john-b137952b/"
-        affiliation:
-          name: "Versus"
-          website: "https://versus.africa/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/jesus_slides.pdf"
+            local: "1"
       - name: "Vijay Janapa Reddi"
         website: "https://scholar.harvard.edu/vijay-janapa-reddi"
         affiliation:
           name: "Harvard University"
           website: "https://seas.harvard.edu/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/vijay_slides.pdf"
+            local: "1"
 
   - number: "2"
     dayOfWeek: "Tuesday"
