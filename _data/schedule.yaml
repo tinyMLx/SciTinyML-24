@@ -27,7 +27,7 @@ days:
           website: "https://www.ictp.it/"
         links:
           - title: "Slides"
-            url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
+            url: "/assets/slides/marco_slides.pdf"
             local: "1"
       - name: "Gian Marco Iodice"
         website: "https://www.linkedin.com/in/gian-marco-iodice-3183a9a1/"
