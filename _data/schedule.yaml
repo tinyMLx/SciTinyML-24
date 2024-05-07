@@ -90,25 +90,37 @@ days:
         affiliation:
           name: "UNIFEI"
           website: "https://unifei.edu.br/"
-      #   links:
-      #     - title: "Slides"
-      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
-      #       local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Rovai-Welcome_to_Day_2.pdf"
+            local: "1"
       - name: "Pete Bernard"
         website: "https://www.linkedin.com/in/bernardpete/"
         affiliation:
           name: "tinyML Foundation"
           website: "https://www.tinyml.org/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Pete-tinyML_Foundation_overview_ictp.pdf"
+            local: "1"
       - name: "Shawn Hymel"
         website: "https://shawnhymel.com/"
         affiliation:
           name: "Edge Impulse"
           website: "https://www.edgeimpulse.com/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Shawn-Edge_Impulse_overview_and_updates.pdf"
+            local: "1"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.uvg.edu.gt/impacto/jose-antonio-bagur/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
+        # links:
+        #   - title: "Slides"
+        #     url: "/assets/slides/Rovai-Welcome_to_Day_2.pdf"
+        #     local: "1"
 
   - number: "3"
     dayOfWeek: "Wednesday"
