@@ -29,6 +29,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/marco_slides.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/iTObHdfq5zM?si=6TfXJajJLwewN6nR"
       - name: "Gian Marco Iodice"
         website: "https://www.linkedin.com/in/gian-marco-iodice-3183a9a1/"
         affiliation:
