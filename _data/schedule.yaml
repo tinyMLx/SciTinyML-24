@@ -41,6 +41,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/gianmarco_slides.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/1Oy9ya5X6Hc?si=AT1rJhNtAv1O7c5p"
       - name: "Jesús Alfonso López Sotelo"
         website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
         affiliation:
@@ -50,6 +53,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/jesus_slides.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/zwzZR2i5eYI?si=xu1uXz8oZNtOBXN7"
       - name: "Vijay Janapa Reddi"
         website: "https://scholar.harvard.edu/vijay-janapa-reddi"
         affiliation:
@@ -59,6 +65,10 @@ days:
           - title: "Slides"
             url: "/assets/slides/vijay_slides.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/wW4FSf3OwqM"
+            
 
   - number: "2"
     dayOfWeek: "Tuesday"
