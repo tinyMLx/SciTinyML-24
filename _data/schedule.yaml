@@ -117,10 +117,10 @@ days:
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
-        # links:
-        #   - title: "Slides"
-        #     url: "/assets/slides/Rovai-Welcome_to_Day_2.pdf"
-        #     local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Jose-Advanced_Anomaly_Detection.pdf"
+            local: "1"
 
   - number: "3"
     dayOfWeek: "Wednesday"
@@ -153,11 +153,19 @@ days:
         affiliation:
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Eric-TinyML_devices_enabling_phyiscal_GPT.pdf"
+            local: "1"
       - name: "Moises Meza"
         website: "https://www.linkedin.com/in/moises-stevend-meza-rodriguez-a84934148/"
         affiliation:
           name: "UPCH, Peru"
           website: "https://en.cayetano.edu.pe/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Moises-Experiences_using_TinyML.pdf"
+            local: "1"
       - name: "Claudio Miceli"
         website: "https://www.linkedin.com/in/claudio-miceli-de-farias-012390b/"
         affiliation:
@@ -170,6 +178,10 @@ days:
           website: "https://www.arduino.cc/en/about#founders"
           name2: "Malmö University"
           website2: "https://mau.se/en/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/David-Arduino_in_Education.pdf"
+            local: "1"
 
   - number: "4"
     dayOfWeek: "Thursday"
