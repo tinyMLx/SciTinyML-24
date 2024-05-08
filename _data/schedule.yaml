@@ -144,10 +144,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-      #   links:
-      #     - title: "Slides"
-      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
-      #       local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Marco-Welcome_to_Day_3.pdf"
+            local: "1"
       - name: "Eric Pan"
         website: "https://www.linkedin.com/in/ericspan/"
         affiliation:
