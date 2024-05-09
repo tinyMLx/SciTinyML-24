@@ -217,7 +217,7 @@ days:
       - time: "1:50:00 PM"
         name: "Fingerprinting"
       - time: "2:35:00 PM"
-        name: "Materiality and Risk in the Age of Pervasive AI Sensors"
+        name: "Responsible TinyML"
       - time: "3:05:00 PM"
         name: "Workshop Closing and Future Events"
       - time: "3:25:00 PM"
