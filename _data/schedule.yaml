@@ -259,7 +259,7 @@ days:
           name: "UFSCar, Brazil"
           # website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
         links:
-          # - title: "Slides"
+          - title: "Slides"
             # url: "/assets/slides/.pdf"
             local: "1"
             related_to_next: ""
@@ -271,7 +271,7 @@ days:
           name: "University of Verona, Italy"
           # website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
         links:
-          # - title: "Slides"
+          - title: "Slides"
             # url: "/assets/slides/.pdf"
             local: "1"
             related_to_next: ""
