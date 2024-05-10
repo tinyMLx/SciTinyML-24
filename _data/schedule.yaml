@@ -260,7 +260,7 @@ days:
           # website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
         links:
           - title: "Slides"
-            # url: "/assets/slides/.pdf"
+            url: "/assets/slides/4-1-Local_Feature_Alignment.pdf"
             local: "1"
             related_to_next: ""
           - title: "Video"
@@ -288,7 +288,7 @@ days:
             local: "1"
             related_to_next: ""
           - title: "Video"
-            url: ""
+            url: "https://youtu.be/n_ZCJr2ngH8"
       - name: "Gustavo P. Castro Abdallah"
         # website: "https://github.com/hpssjellis"
         affiliation:
@@ -296,11 +296,11 @@ days:
           # website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
         links:
           - title: "Slides"
-            # url: "/assets/slides/.pdf"
+            url: "/assets/slides/4-4-LSTM.pdf"
             local: "1"
             related_to_next: ""
           - title: "Video"
-            url: ""
+            url: "https://youtu.be/WRoaTTlCsVQ"
       - name: "Babalola, John Oluwaseun"
         # website: "https://github.com/hpssjellis"
         affiliation:
@@ -308,11 +308,11 @@ days:
           # website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
         links:
           - title: "Slides"
-            # url: "/assets/slides/.pdf"
+            url: "/assets/slides/4-5-TinyML_in_Power_Systems.pdf"
             local: "1"
             related_to_next: ""
           - title: "Video"
-            url: ""
+            url: "https://youtu.be/jlsd4Uzrze4"
       - name: "Parin Shah, Yuvaraj Govindarajulu, Pavan Kulkarni and Manojkumar Parmar"
         # website: "https://github.com/hpssjellis"
         affiliation:
@@ -324,7 +324,7 @@ days:
             local: "1"
             related_to_next: ""
           - title: "Video"
-            url: ""
+            url: "https://youtu.be/Y2uYMEtBj7Y"
       - name: "Brayan A. Arenas F. Silvia A. Emmanuel David Angarita. Sotelo-Lopez"
         # website: "https://github.com/hpssjellis"
         affiliation:
@@ -336,8 +336,8 @@ days:
             local: "1"
             related_to_next: ""
           - title: "Video"
-            url: ""
-      - name: "Jeremy Ellis"
+            url: "https://youtu.be/9WYiIlrDGK8"
+      - name: "Jeremy Ellis and team"
         # website: "https://github.com/hpssjellis"
         affiliation:
           name: "TinyML4D Group"
@@ -348,7 +348,7 @@ days:
             local: "1"
             related_to_next: ""
           - title: "Video"
-            url: ""
+            url: "https://youtu.be/_TclWKHTduo"
 
   - number: "5"
     dayOfWeek: "Friday"
