@@ -232,10 +232,10 @@ days:
         affiliation:
           name: "UNIFEI"
           website: "https://unifei.edu.br/"
-      #   links:
-      #     - title: "Slides"
-      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
-      #       local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/5-Rovai-Welcome_Day_5.pdf"
+            local: "1"
       - name: "Marcus Rüb"
         website: "https://www.linkedin.com/in/marcus-rueb/"
         affiliation:
@@ -246,13 +246,27 @@ days:
         affiliation:
           name: "Pontificia Universidad Javeriana"
           website: "https://www.javeriana.edu.co/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/5-Diego-Location-Fingerprinting.pdf"
+            local: "1"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+        links:
+          - title: "Google Slides"
+            url: "https://docs.google.com/presentation/d/1_QLwOgnZLqyXRAJxxJYI6bhM8vO2Q_pm_EzQkwI71AE/"
+          - title: "PDF Slides"
+            url: "/assets/slides/Brian-Responsible-TinyML.pdf"
+            local: "1"
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/5-Marco-Closing_ICTP_Workshop.pdf"
+            local: "1"
