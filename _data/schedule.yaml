@@ -171,6 +171,10 @@ days:
         affiliation:
           name: "UFRJ, Brazil"
           website: "https://labnet.nce.ufrj.br/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/Claudio-Scitinyml2024.pdf"
+            local: "1"
       - name: "David Cuartielles"
         website: "https://mau.se/en/persons/david.cuartielles/"
         affiliation:
