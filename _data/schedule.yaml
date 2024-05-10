@@ -232,10 +232,13 @@ days:
         affiliation:
           name: "School District 75 Mission"
           website: "https://en.wikipedia.org/wiki/School_District_75_Mission"
-      #   links:
-      #     - title: "Slides"
-      #       url: "/assets/slides/Day1-0-Marco-Welcome_Workshop.pdf"
-      #       local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/4-Welcome_to_Day4.pdf"
+            local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/ckZDKVLpMIk"
 
   - number: "5"
     dayOfWeek: "Friday"
