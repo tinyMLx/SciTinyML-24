@@ -94,6 +94,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Rovai-Welcome_to_Day_2.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/ZTPKEY2slzY"
       - name: "Pete Bernard"
         website: "https://www.linkedin.com/in/bernardpete/"
         affiliation:
@@ -103,6 +106,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Pete-tinyML_Foundation_overview_ictp.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/6BZsFG_dhZc"
       - name: "Shawn Hymel"
         website: "https://shawnhymel.com/"
         affiliation:
@@ -112,6 +118,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Shawn-Edge_Impulse_overview_and_updates.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/3xLjzn4qf7I"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.uvg.edu.gt/impacto/jose-antonio-bagur/"
         affiliation:
@@ -121,6 +130,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Jose-Advanced_Anomaly_Detection.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/a1MRb0FTjiY"
 
   - number: "3"
     dayOfWeek: "Wednesday"
