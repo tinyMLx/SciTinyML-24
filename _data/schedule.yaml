@@ -160,6 +160,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Marco-Welcome_to_Day_3.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/PSsCOH16WDs"
       - name: "Eric Pan"
         website: "https://www.linkedin.com/in/ericspan/"
         affiliation:
@@ -169,6 +172,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Eric-TinyML_devices_enabling_phyiscal_GPT.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/RYlq1A7lcxk"
       - name: "Moises Meza"
         website: "https://www.linkedin.com/in/moises-stevend-meza-rodriguez-a84934148/"
         affiliation:
@@ -178,6 +184,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Moises-Experiences_using_TinyML.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/U6-8NpQ8qvc"
       - name: "Claudio Miceli"
         website: "https://www.linkedin.com/in/claudio-miceli-de-farias-012390b/"
         affiliation:
@@ -187,6 +196,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/Claudio-Scitinyml2024.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/yavwNbE_76E"
       - name: "David Cuartielles"
         website: "https://mau.se/en/persons/david.cuartielles/"
         affiliation:
@@ -198,6 +210,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/David-Arduino_in_Education.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/xo5U2WN7kwk"
 
   - number: "4"
     dayOfWeek: "Thursday"
