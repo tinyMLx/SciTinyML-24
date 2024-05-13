@@ -376,6 +376,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/5-Rovai-Welcome_Day_5.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/8sqjtd5f0Cc"
       - name: "Marcus Rüb"
         website: "https://www.linkedin.com/in/marcus-rueb/"
         affiliation:
@@ -385,6 +388,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/5-Marcus-OnDevice_Training.pdf"
             local: "1"  
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/gGjmlo67jc4"
       - name: "Diego Mendez Chaves"
         website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
         affiliation:
@@ -394,6 +400,9 @@ days:
           - title: "Slides"
             url: "/assets/slides/5-Diego-Location-Fingerprinting.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/MRIh6ilPHSc"
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
@@ -405,6 +414,9 @@ days:
           - title: "PDF Slides"
             url: "/assets/slides/Brian-Responsible-TinyML.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/G9DY3AL4N54"
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
         affiliation:
@@ -414,3 +426,6 @@ days:
           - title: "Slides"
             url: "/assets/slides/5-Marco-Closing_ICTP_Workshop.pdf"
             local: "1"
+            related_to_next: ""
+          - title: "Video"
+            url: "https://youtu.be/353nTadXwHg"
