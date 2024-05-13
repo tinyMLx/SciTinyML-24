@@ -381,6 +381,10 @@ days:
         affiliation:
           name: "Hahn-Schickard"
           website: "https://www.hahn-schickard.de/en"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/5-Marcus-OnDevice_Training.pdf"
+            local: "1"  
       - name: "Diego Mendez Chaves"
         website: "https://www.javeriana.edu.co/blogs/diego-mendez/"
         affiliation:
